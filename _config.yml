@@ -10,45 +10,38 @@
 
 lang: en-US
 
-title: Mohammad Kaiyom                          # the main title
+title: Imtayz Nayem                          # the main title
 
-tagline: Problem Solver  # it will display as the sub-title
+tagline: Video Editor                        # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  Mohammad Kaiyom's Personal Blog
+  Imtayz Nayem's Personal Website
 
 # fill in the base hostname & protocol for your site, e.g., 'https://username.github.io'
 url: 'https://kaiyom.github.io'
 
-author: Mohammad Kaiyom                  # change to your full name
+author: Imtayz Nayem                  # change to your full name
 
 avatar: /assets/img/me-squre-340px.png   # support internet resources
 
 github:
-  username: kaiyom             # change to your github username
+  username: imtayznayem             # change to your github username
 
 twitter:
-  username:             # change to your twitter username
+  username: ImtayzNayem            # change to your twitter username
 
 linkedin:
-  username: kaiyom
+  username: imtayznayem
 
-facebook:
-  username: kaiyom.cse 
 
 social:
-  name: Kaiyom Mohammad                  # it will shows as the copyright owner in Footer
-  email: kaiyom.mohammad@gmail.com            # change to your email address
+  name: Imtayz Nayem                  # it will shows as the copyright owner in Footer
+  email: imtayz.nayem@gmail.com            # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://www.linkedin.com/in/kaiyom
-    - https://github.com/kaiyom       # change to your github homepage
-    - https://www.facebook.com/kaiyom.cse
+    - https://www.linkedin.com/in/imtayznayem
+    - https://github.com/imtayznayem       # change to your github homepage
 
-    # Uncomment below to add more social links
-    # - https://twitter.com/imturja      # change to your twitter homepage
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
 
 google_site_verification: google_meta_tag_verification # change to your verification string
 
